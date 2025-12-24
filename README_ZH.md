@@ -10,6 +10,11 @@
 [![Community Forum](https://img.shields.io/badge/community-forum-009639?logo=discourse&link=https%3A%2F%2Fcommunity.nginx.org)](https://community.nginx.org)
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-blue.svg)](/LICENSE)
 
+> **📚 详细文档**: 
+> - [架构设计详解](docs/ARCHITECTURE_ZH.md) - 深入了解NGINX的内部架构和设计原理
+> - [编译构建指南](docs/BUILD_GUIDE_ZH.md) - 完整的源码编译和构建说明
+> - [部署运维指南](docs/DEPLOYMENT_ZH.md) - 生产环境部署、配置和运维最佳实践
+
 ## 目录
 - [项目简介](#项目简介)
 - [背景知识](#背景知识)
